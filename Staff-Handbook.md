@@ -1,6 +1,6 @@
 # Overview
 
-- [Rules & Punishments](#Rules-&-Punishments)
+- [Rules & Punishments](#chat-offense-severity-1)
 
 
 # Content

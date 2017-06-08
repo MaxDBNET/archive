@@ -62,4 +62,4 @@ Do you have anything other to tell us? If so, write below.
 
 #### Best of luck to whoever applies!
 
-#### Any questions, please direct it Matt and me.
+#### Any questions, please direct it at Matt and me.

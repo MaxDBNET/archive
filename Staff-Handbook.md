@@ -2,7 +2,7 @@
 
 - [Rules & Punishments](#rules-punishments)
     - [Chat Offense](#chat-offense)
-    - [Gameplay Offense](##gameplay-offense)
+    - [Gameplay Offense](#gameplay-offense)
 
 
 # Content

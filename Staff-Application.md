@@ -57,7 +57,7 @@ Do you have anything other to tell us? If so, write below.
 - What staff position would I be applying?
     - Whatever you wishes, although, most people start with `Mod` initially.
 - I got accepted, what now?
-    - Awesome! Check out our staff handbook which covers most if not all the things.
+    - Awesome! Check out our [staff handbook](https://lab.maxdb.net/root/maxdb-docs/blob/master/Staff-Handbook.md) which covers most if not all the things.
 
 
 #### Best of luck to whoever applies!

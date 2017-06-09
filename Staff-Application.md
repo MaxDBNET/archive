@@ -56,6 +56,8 @@ Do you have anything other to tell us? If so, write below.
     - We try to get to each application within a week span.
 - What staff position would I be applying?
     - Whatever you wishes, although, most people start with `Mod` initially.
+- I got declined, may I resubmit?
+    - Of course, but please wait up to a week before resubmitting.
 - I got accepted, what now?
     - Awesome! Check out our [staff handbook](https://lab.maxdb.net/root/maxdb-docs/blob/master/Staff-Handbook.md) which covers most if not all the things.
 

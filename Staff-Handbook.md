@@ -68,7 +68,7 @@ To use custom reason, simply go to the next page on the ban menu, accessible via
 
 ### Ban Time
 
-This is really up to the person that's banning. Generally, I base this off on % of players affected by this action.
+Aside from the several fixed length stated in the punishment column, this is really up to the person that's banning. Generally, I base this off on % of players affected by this action.
 
 So team killing, which only affects the minority of the players, will receive two days ban. But for stat boosting, this affects everyone; I'd do a week ban.
 

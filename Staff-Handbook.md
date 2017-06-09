@@ -15,7 +15,7 @@
 
 
 
-#### Chat Offense
+### Chat Offense
 
 |             Offense              |                                                                             Description                                                                              |                                                                                                                                                  Example                                                                                                                                                   |                Punishment                |
 |:--------------------------------:| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
@@ -35,7 +35,7 @@
 |  Revealing Personal information  | Giving out any legitimate personal information that could be used to identity an user                                                                                | :x: <br /> - "`player`'s address is 1600 Pennsylvania Ave Washington DC'" <br /><br /> :white_check_mark: <br /> - "`player` lives in the United States"                                                                                                                                                       | Instant mute without warning             |
 |       Severe Advertisement       | Spamming an IP in global chat with intent to recruit                                                                                                                 | :x: <br /> - "Join `my.server.com`!" <br /> "Join `my.server.com`!!" <br /> - "Join `my.server.com`!!!" <br /> - "This server has abusive staff! Come join us at `my.server.com` instead!"                                                                                                                       | Instant mute without warning                                         |
 
-#### Gameplay Offense
+### Gameplay Offense
 
 |            Offense            |                                        Description                                        |                                                                           Example                                                                           |                       Punishment                        |
 |:-----------------------------:| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
@@ -48,3 +48,41 @@
 |         Stat Boosting         | Using an alternate account to boost self stat                                             | :x: <br /> - Using an alt to farm kills                                                                                                                     | Temp ban + stat reset and if continued, a permanent ban |
 | Targeting YouTubers/Streamers | Intentionally targeing YouTubers with the intention of killing them or ruining their game | :x: <br /> - Continously following a YouTuber/Streamer and killing them by any means                                                                        | Temp ban                                                |
 |       Any Form of Hacks       | Using any form of hacks that could be used as an advantage                                | :x: <br /> - Aimbot <br /> - Spinbot <br /> - Reflectbot                                                                                                    | Temp ban                                                |
+
+
+## Banning
+
+### Ban Format
+
+This is the format you should follow when banning:
+
+`BanReason | BanTime | Appeal at MaxDB.NET`
+
+To use custom reason, simply go to the next page on the ban menu, accessible via `!admin`.
+
+### Ban Time
+
+This is really up to the person that's banning. Generally, I base this off on % of players affected by this action.
+
+So team killing, which only affects the minority of the players, will receive two days ban. But for stat boosting, this affects everyone; I'd do a week ban.
+
+## Commands
+
+Most if not all the admin's command can be accessed using `/admin`.
+
+We also use `Ticketron` for reports, you can learn more about that [here](https://rumblefrog.github.io/Ticketron/).
+
+## Sarah Bot
+
+Sarah-bot is what we created to help optimize our workflow.
+
+If you'd like to opt-in for Steam chat reports from Sarah-bot, please add her [here](http://steamcommunity.com/profiles/76561198258473878/).
+
+Please notify me after you do that and I'll guide you through setting up your notifications.
+
+## Links
+
+- [General Website](https://maxdb.net)
+- [Discord](https://discord.maxdb.net)
+- [Forum](https://forum.maxdb.net)
+- [Lab](https://lab.maxdb.net)

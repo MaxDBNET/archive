@@ -3,6 +3,12 @@
 - [Rules & Punishments](#rules-punishments)
     - [Chat Offense](#chat-offense)
     - [Gameplay Offense](#gameplay-offense)
+- [Banning](#banning)
+    - [Ban Format](#ban-format)
+    - [Ban Time](#ban-time)
+- [Commands](#commands)
+- [Sarah Bot](#sarah-bot)
+- [Links](#links)
 
 
 # Content

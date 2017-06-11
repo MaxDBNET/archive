@@ -12,6 +12,7 @@
     - [View Handled Tickets](#view-handled-ticket)
 - [Commands](#commands)
 - [Sarah Bot](#sarah-bot)
+- [FAQ](#faq)
 - [Links](#links)
 
 
@@ -73,6 +74,51 @@ If you'd like to opt-in for Steam chat reports from Sarah-bot, please add her [h
 
 Please notify me after you do that and I'll guide you through setting up your notifications.
 
+## FAQ
+
+:question: How can I join MaxDB?
+
+:arrow_right: You can join us by joining our Steam group: <http://steamcommunity.com/gid/103582791457828777>
+
+
+:question: What is `@Good Ol' Minecraft` group and how can I join it?
+
+:arrow_right: It's a group of people that are currently whitelisted on our Minecraft server (#info), and you can join it by reading and replying to this discussion: <http://steamcommunity.com/groups/MaxDBNET/discussions/0/1291817837629584246>
+
+
+:question: What are the rules?
+
+:arrow_right: Take a look at #rules
+
+
+:question: There's a violator in one of your servers, how can I report it?
+
+:arrow_right: You can either use `!Ticket` & `!TagPlayer` combination **OR** you can mention `@Staff` in #support for immediate assistance
+
+
+:question: I'm having technical difficulties with one of your servers, can you help me?
+
+:arrow_right: Sure, but first use Google to look up the issue, then if that doesn't help, you can mention `@Fishy` for support
+
+
+:question: I'm getting `Missing Map` on one of your servers, how can I fix this?
+
+:arrow_right: First, make sure you enable custom files to download from the server through in-game setting: `Options -> Multiplayer -> Allow all custom files from server`. And if that didn't work, download the missing map from our FastDL (https://dl.maxdb.net) and drop it off in your maps folder
+
+
+:question: I'm getting `Your map differs from server's`, how can I fix this?
+
+:arrow_right: Navigate to your downloaded maps (`steamapps\common\Team Fortress 2\tf\download\maps`) folder, delete the mentioned map, and retry.
+
+
+:question: What's this free hat event I hear about?
+
+:arrow_right: Every Saturday, we host an event on a chosen server, giving away hats for winning the objective (different on each server), and towards the end, we might give away a much higher valued prize
+
+
+:question: I have a feedback/suggestion! Who can I talk to?
+
+:arrow_right: Awesome! You can inquiry `@Matt` for any feedback/suggestion
 ## Links
 
 - [General Website](https://maxdb.net)
